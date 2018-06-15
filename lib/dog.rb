@@ -14,6 +14,6 @@ class Dog
     return @name
   end
   def breed
-    puts @breed
+    return @breed
   end
 end
